@@ -1,5 +1,4 @@
 # pymongo-notes
-*
 A quick guide to CRUD functions between Python and MongoDB
 
 ## Setup
